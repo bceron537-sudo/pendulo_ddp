@@ -1,0 +1,1 @@
+"""Pendulum DDP - Distributed training for double pendulum dynamics."""
